@@ -10,3 +10,5 @@ kubeadm join --token b7178e.0c9549f49eb2569c 192.168.0.8:6443 --discovery-token-
 export GITHUB_CLIENT_ID='97ce03080e6500ff5a84' && export GITHUB_CLIENT_SECRET='db34eac7d725790f130af0170822f7c575989eb5' &&  ./bin/dex serve ./config-test.yaml
 
 2019-08-22         修改文档报告!
+
+2019-08-23         提交测试报告文档!
